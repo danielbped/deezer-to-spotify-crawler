@@ -1,0 +1,16 @@
+{
+  "name": "spotify-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "songs.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "puppeteer": "^18.0.5"
+  }
+}
